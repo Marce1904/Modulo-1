@@ -1,23 +1,37 @@
 p{
-    color: red;
+    color: rgb(91, 105, 112);
     font-style:arial;
+    width: 350px;
+    height: auto;
+    background-color: rgb(176, 230, 207);
+}
+
+h1{
+    color: rgb(47, 71, 71);
+    background-color: bisque;
+    height: 50px;
+    width: 550px;
+}
+
+img{
+    height: 350px;
 }
 
 h2{
     color: green;
-    size: 20px;
-    image-resolution: 2200px;
-    background-color: DodgerBlue;
-    mask-size: 5cm;
+    background-color: rgb(98, 185, 149);
+    color: rgb(47, 71, 71);
+    height: 50px;
+    width: 300px;
 }
 
 
 #Marcelo{
-    color: rgb(74, 33, 112);
-
+    color: rgb(117, 93, 139);
 }
 
 #Marcelo1{
-
     color: brown;
 }
+
+
